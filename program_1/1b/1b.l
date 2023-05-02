@@ -4,7 +4,7 @@ extern int yylval;
 %}
 %%
 [0-9]+  {yylval=atoi(yytext);return NUM;}
-[\n\t]  ;
+[ \n\t]  ;
 .       {return yytext[0];}
 
 %%
