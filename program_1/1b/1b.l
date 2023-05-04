@@ -8,3 +8,7 @@ extern int yylval;
 .       {return yytext[0];}
 
 %%
+
+int yywrap(){
+    return 1;
+}

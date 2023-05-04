@@ -19,3 +19,6 @@ int main(){
     else
         printf("\nExpression is invalid\n");
 }
+int yywrap(){
+    return 1;
+}
