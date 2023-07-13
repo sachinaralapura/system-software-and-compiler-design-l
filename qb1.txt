@@ -1,0 +1,30 @@
+1)Explain the perspective projections with reference point and vanishing point with neat diagrams
+
+2)Explain depth buffer algorithm with an example used for visible surface detection
+ List the advantages and disadvantages of depth buffer algorithm
+
+3)Write a short note on the following:
+i)Back face detection     ii)  openGL visibility detection functions
+4)Describe transformations from world to viewing coordinates
+
+5)What are display list? Explain the steps to develop interactive models and animating interactive programs
+
+6)Describe the logical input operation of picking in selection mode
+
+7)Explain the major characteristics that describe the logical behaviour of an input device
+
+8)Define measure and trigger
+ Explain different input modes
+
+9)Explain the following:
+i)Bezier curve  ii)  Bezier spline curve         
+10)Explain the perspective projections and parallel projections with neat diagrams
+
+11)Describe back face detection method with an example
+
+12)Explain orthogonal projections in detail
+
+13)Discuss request, sample and event mode with the block diagram
+ 
+14)Explain the logical classification of input devices with an example
+

@@ -6,7 +6,7 @@
 "print"         {return print;} 
 "exit"          {return exit_command;}
 "All"           {return All;}
-[a-zA-Z]        {yylval.id = yytext[0]; return identifier;}
+[a-zA-Z]        {yylval.id = yytext[0]; dreturn identifier;}
 [0-9]+          {yylval.num = atoi(yytext); return number;}
 [ \t\n]         ;
 [-+=*\/;]          { return yytext[0];}
